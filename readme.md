@@ -25,11 +25,10 @@ This repository serves as the logical backbone of my Frontend technical stack. A
 
 ## 📂 Project & Challenge Log
 
-> 🚀 *Starting this journey tomorrow. As I progress through each section of the freeCodeCamp curriculum, I will document the specific logic applied and skills acquired in the matrix below.*
-
 | Module / Project | Logical Description & Scope | Core Technologies & Skills |
 | :--- | :--- | :--- |
-| **⏳ Coming Soon...** | *Space reserved for the first programmatic block and algorithmic challenge.* | *JavaScript ES6+ / Pure Logic* |
+| **01-build-a-javascript-trivia-bot** | Implemented a static trivia assistant using variable registration (`let`) and continuous string concatenation. Engineered to output dynamic text blocks derived from variable data manipulation. | `Variables (`let`)`, `String Concatenation`, `Data Output (`console.log`)` |
+| **02-build-a-sentence-maker** | Developed a dynamic Mad Libs-style narrative engine. Leveraged variable mutability to reuse pointers, override string literals sequentially, and dynamically reconstruct structural content blocks within runtime. | `Variable Reassignment`, `Data Mutability`, `String Interpolation Mechanics` |
 
 ---
 
