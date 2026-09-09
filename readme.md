@@ -30,6 +30,7 @@ This repository serves as the logical backbone of my Frontend technical stack. A
 | **01-build-a-javascript-trivia-bot** | Implemented a static trivia assistant using variable registration (`let`) and continuous string concatenation. Engineered to output dynamic text blocks derived from variable data manipulation. | `Variables (`let`)`, `String Concatenation`, `Data Output (`console.log`)` |
 | **02-build-a-sentence-maker** | Developed a dynamic Mad Libs-style narrative engine. Leveraged variable mutability to reuse pointers, override string literals sequentially, and dynamically reconstruct structural content blocks within runtime. | `Variable Reassignment`, `Data Mutability`, `String Interpolation Mechanics` |
 | **03-debug-type-coercion-errors** | Resolved logical bugs in an arithmetic evaluation app by identifying and mitigating implicit type coercion. Refactored mixed-type expressions (booleans, strings, and null values) into explicit numeric types to ensure strict mathematical accuracy. | `Type Coercion`, `Data Types`, `Explicit Casting`, `Debugging` |
+| **04-debug-increment-and-decrement-operator-errors-in-a-buggy-app** | Refactored evaluation errors caused by misuse of prefix and postfix arithmetic operators. Analyzed memory state mutation timing to ensure correct variable assignment and sequence control within operations. | `Prefix Operators`, `Postfix Operators`, `State Mutation`, `Variable Reassignment` |
 
 ---
 
