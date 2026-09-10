@@ -31,6 +31,7 @@ This repository serves as the logical backbone of my Frontend technical stack. A
 | **02-build-a-sentence-maker** | Developed a dynamic Mad Libs-style narrative engine. Leveraged variable mutability to reuse pointers, override string literals sequentially, and dynamically reconstruct structural content blocks within runtime. | `Variable Reassignment`, `Data Mutability`, `String Interpolation Mechanics` |
 | **03-debug-type-coercion-errors** | Resolved logical bugs in an arithmetic evaluation app by identifying and mitigating implicit type coercion. Refactored mixed-type expressions (booleans, strings, and null values) into explicit numeric types to ensure strict mathematical accuracy. | `Type Coercion`, `Data Types`, `Explicit Casting`, `Debugging` |
 | **04-debug-increment-and-decrement-operator-errors-in-a-buggy-app** | Refactored evaluation errors caused by misuse of prefix and postfix arithmetic operators. Analyzed memory state mutation timing to ensure correct variable assignment and sequence control within operations. | `Prefix Operators`, `Postfix Operators`, `State Mutation`, `Variable Reassignment` |
+| **05-build-a-fortune-teller** | Engineered a randomized prediction engine utilizing pseudo-random number generation (`Math.random`). Implemented conditional control flow structures (`if/else if/else`) and strict equality comparison (`===`) to map numeric states to corresponding predefined string variables. | `Math Object`, `Pseudo-Randomness`, `Conditional Logic`, `Strict Equality (===)` |
 
 ---
 
