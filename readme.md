@@ -40,7 +40,6 @@ This repository serves as the logical backbone of my Frontend technical stack. A
 | **011-build-a-string-truncator** | Implemented a data-sanitization utility designed to truncate string literals based on maximum character thresholds. Leveraged the native `.length` evaluation property alongside precise dynamic indexing via `.slice()` to truncate long data payloads and append truncation indicators ("...") without mutating short immutable strings. | `String Segmentation`, `.length` Property, `.slice()` Method, `Data Sanitization` |
 | **012-confirm-the-ending** | Engineered an algorithm to verify string boundaries without relying on higher-level ECMAScript 6 helper methods (like `.endsWith()`). Utilized dynamic negative indexing via the `.slice()` method to extract and isolate sub-strings from the tail end of data payloads, performing strict-equality validation over literal character streams. | `String Boundary Analysis`, `Negative Array Indexing`, `Memory Sub-string Slicing`, `Strict Structural Equality` |
 
-
 ---
 
 ## 🏆 Associated Certifications
