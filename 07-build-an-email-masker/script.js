@@ -1,7 +1,7 @@
 let email = "apple.pie@example.com";
 function maskEmail(email) {
     let arrobaPosition = email.indexOf("@");
-    let hiddenPart = email.slice(1, (arrobaPosition - 1, arrobaPosition));
+    if (arrobaPosition <= 2) return email;
     let hiddenSimbol = "*".repeat(arrobaPosition - 2);
     return email.slice(0, 1) + hiddenSimbol + email.slice(arrobaPosition - 1);
 }
